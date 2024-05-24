@@ -1,0 +1,16 @@
+{
+  "name": "ahk",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba de JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "German Moreno Bauer",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
